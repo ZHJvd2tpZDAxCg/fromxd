@@ -1,0 +1,7 @@
+#!bin/bash
+#
+xdd(){
+lista="ADMRufu cert.sh openvpn.sh userTOKEN PDirect.py chekup.sh slowdns.sh userV2ray.sh PGet.py chekuser.sh sockspy.sh userWG.sh POpen.py confDNS.sh squid.sh v2ray.sh PPriv.py domain.sh swapfile.sh wireguard.sh PPub.py filebrowser.sh tcpbbr.sh ws-cdn.sh WS-Proxy.js limitador.sh tool_extras.sh bashrc menu userHWID budp.sh menu_inst.sh userSSH"
+tar --create $lista -f rufus.tar
+}
+xdd
